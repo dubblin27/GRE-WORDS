@@ -1,0 +1,20 @@
+1 : A detailed view of of the topic. Delineating the two sides of the topics. Explaining 
+which side hes going to take with a brief proof (2 or 3)
+	[INTRODUCTION]
+
+2: Explaining the first proof (His support). Giving some examples to support his proof
+	[THESIS]
+
+3: Another Proof. Explaining his second proof and giving some examples to support his proof
+	[THESIS]
+
+4: Explaining the opposite side. and why it might be bad and giving some example dilineating 
+the opp side
+	[ANTI-THESIS]
+
+5: 3rd Proof og his support. Examples on why he would support it 
+	[THESIS]
+
+6: Concluding the sum of points of his support and lack of anti thesis based on his thinkig
+and concluding his points for his support with the statement of the ISSUE Essay
+	[CONCLUSION]
